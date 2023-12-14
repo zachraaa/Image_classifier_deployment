@@ -20,6 +20,8 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
 
 ## Predict Data
 
+![predict](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/f3272db0-0154-4155-b581-13ab64fece7c)
+
 ## Local Development
 
 ![deployment](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/46174efc-3b03-45db-be5c-d4d74c38c1ba)
