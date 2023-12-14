@@ -6,4 +6,5 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
 - Augmentasi data dengan menggunakan ImageDataGenerator 
 - Modeling menggunakan pretrained VGG19 :
   summary model :
+  ![summary](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/2f0c2e9c-62d7-4819-9e7d-1565feea0300)
   
