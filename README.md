@@ -22,5 +22,6 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
 
 ## Local Development
 
+![deployment](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/46174efc-3b03-45db-be5c-d4d74c38c1ba)
 
 
