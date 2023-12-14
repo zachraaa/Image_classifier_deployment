@@ -5,6 +5,15 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
 - Splitting data : Training = 70%, Validation= 25%, Testing = 5%
 - Augmentasi data dengan menggunakan ImageDataGenerator 
 - Modeling menggunakan pretrained VGG19 :
-  summary model :
-  ![summary](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/2f0c2e9c-62d7-4819-9e7d-1565feea0300)
   
+  summary model :
+  
+  ![summary](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/2f0c2e9c-62d7-4819-9e7d-1565feea0300)
+
+  graph loss dam accuracy model :
+
+  evaluation matrix model :
+
+## Predict Data
+
+
