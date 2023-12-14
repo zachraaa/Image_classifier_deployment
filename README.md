@@ -12,8 +12,15 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
 
   graph loss dam accuracy model :
 
+  ![download](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/b7e76563-1de8-4479-abe9-0434d6273c0f)
+
   evaluation matrix model :
 
+  ![confusion](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/24aa637f-b804-42bb-aeae-e7fd7fe5b8fd)
+
 ## Predict Data
+
+## Local Development
+
 
 
