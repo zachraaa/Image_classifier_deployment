@@ -1,6 +1,6 @@
 # Image_classifier_deployment
 ## Overview Dataset
-Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu paper, rock, dan scissors dengan jumlah sebanyak 2520 data. Masing-maisng kelas dalam dataset mempunyai jumlah sebanyak 840 gambar.
+Dataset yang digunakan merupakan kumpulan gambar yang terdiri dari 3 kelas yaitu paper, rock, dan scissors dengan jumlah sebanyak 2520 data. Masing-masing kelas dalam data mempunyai jumlah sebanyak 840 gambar.
 ## Preprocessing dan Modelling
 - Splitting data : Training = 70%, Validation= 25%, Testing = 5%
 - Augmentasi data dengan menggunakan ImageDataGenerator 
@@ -10,7 +10,7 @@ Dataset yang digunakan adalah sebuah gambar yang terdiri dari 3 kelas yaitu pape
   
   ![summary](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/2f0c2e9c-62d7-4819-9e7d-1565feea0300)
 
-  graph loss dam accuracy model :
+  graph loss dan accuracy model :
 
   ![download](https://github.com/zachraaa/Image_classifier_deployment/assets/71622728/b7e76563-1de8-4479-abe9-0434d6273c0f)
 
